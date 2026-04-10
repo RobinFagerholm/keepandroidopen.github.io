@@ -23,6 +23,7 @@ heading:
   zh-TW: "消費者：聯絡政府監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
   vi: "Người dùng: Liên hệ với cơ quan quản lý của chính phủ"
+  fi: "Kuluttajat: Ota yhteyttä päättäjiin
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
@@ -49,6 +50,7 @@ intro:
   zh-TW: "全球各地的監管機構對科技領域的壟斷和權力集中深表關切，並希望直接傾聽受到影響和關注此事的個人的聲音。在直接聯絡監管機構時，您應該保持 _禮貌_ ，並 _具體_ 說明您認為這些政策將對消費者和競爭造成的危害。"
   ja: "世界中の規制当局は、テクノロジー業界における独占と権力の集中を真に懸念しており、影響を受け懸念を抱く個人から直接意見を聞きたいと考えています。規制当局に直接連絡する際は、これらの政策が消費者と競争の両方に与えると考えられる害について、_礼儀正しく_、_具体的_ に述べてください。"
   vi: "Các cơ quan quản lý trên toàn thế giới quan ngại sâu sắc về sự độc quyền và tập trung quyền lực trong lĩnh vực công nghệ, đồng thời muốn lắng nghe ý kiến ​​trực tiếp từ những cá nhân bị ảnh hưởng và có liên quan. Khi liên hệ trực tiếp với cơ quan quản lý, bạn phải _lịch sự_ và giải thích _cụ thể_ về tác hại mà bạn tin rằng những chính sách này sẽ gây ra cho người tiêu dùng và sự cạnh tranh."
+  fi: "Päättäjät maailman ympäri ovat totisesti huolissaan monopoleista ja vallan keskittymisestä teknologia sektorilla, ja haluavat kuulla huolestuneilta ihmisiltä ja niiltä joihin tämä vaikuttaa. Kun otat yhteyttä päättäjiin, ole _kohtelias_ ja _täsmällinen_ siitä mitä vahinkoa uskot näiden käytäntöjen aiheuttavan, niin kuluttajille kuin kilpailullekin."
 
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
@@ -75,6 +77,7 @@ follow_up:
   zh-TW: "當申訴是由該國家或地區的公民撰寫，並且電子郵件語言是該地區管理機構的官方語言之一時，申訴的影響力尤為顯著。請要求對申訴給予 _書面確認_ ，並考慮將您收到的任何回覆轉發至 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ，以便我們突出顯示並作為參考。"
   ja: "苦情は、その国や地域の市民によって提出され、かつメールの言語が当該地域の統治機関の公用語のうちの一つで書かれている場合に特に効果的です。苦情の受理確認書を文書で請求し、受け取った回答は [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) に転送することをご検討ください。そうすることで、私達がそれらを強調し参照することが可能となります。"
   vi: "Tác động của khiếu nại đặc biệt quan trọng khi nó được viết bởi công dân của quốc gia hoặc khu vực đó và ngôn ngữ email là một trong những ngôn ngữ chính thức của cơ quan quản lý khu vực. Vui lòng yêu cầu văn bản xác nhận đơn khiếu nại và cân nhắc chuyển tiếp mọi phản hồi bạn nhận được tới [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) để chúng tôi có thể đánh dấu và tham khảo chúng."
+  fi:"Valituksilla on erityisen suuri vaikutus, kun sen on kirjoittanut kyseisen maan tai hallintoalueen kansalainen ja kun valitus on kirjoitettu jollakin kyseisen paikan virallisista kielistä. Pyydä _kirjallinen vastaanottokuittaus_ valituksesta ja välitä harkintasi mukaan saamasi vastaukset osoitteeseen [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) jotta voimme niitä korostaa ja viitata niihin."
 
 countries:
   - id: united-states
@@ -100,6 +103,7 @@ countries:
       zh-TW: "美國"
       ja: "アメリカ合衆国"
       vi: "Hoa Kỳ"
+      fi: "Yhdysvallat"
     items:
       - text:
           ar: "قدّم تقريراً إلى [قسم مكافحة الاحتكار التابع لوزارة العدل الأمريكية عبر الإنترنت](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
@@ -122,6 +126,7 @@ countries:
           zh-CN: "向[美国司法部在线反垄断报告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)报告"
           zh-TW: "向[美國司法部線上反壟斷報告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)報告"
           vi: "Báo cáo cho [Báo cáo chống độc quyền trực tuyến của Bộ Tư pháp Hoa Kỳ](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          fi: "Kirjaa ilmoitus [Yhdysvaltain oikeusministeriön online-kilpailulainsäädäntöraportille](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
       - text:
           ar: "قدّم شكوى إلى [لجنة التجارة الفيدرالية الأمريكية: شكاوى مكافحة الاحتكار](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           en: "File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
@@ -143,6 +148,7 @@ countries:
           zh-CN: "向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)提出投诉"
           zh-TW: "向[美國聯邦貿易委員會：反壟斷申訴](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)提出申訴"
           vi: "Gửi khiếu nại lên [Ủy ban Thương mại Liên bang Hoa Kỳ: Khiếu nại chống độc quyền](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          fi: "Lähetä [Yhdysvaltain liittovaltion kauppakomissio: Kilpailulainsäädäntö valitus](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
       - text:
           en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
           da: "[Find din repræsentant i Repræsentanternes Hus](https://www.house.gov/representatives/find-your-representative)"
@@ -151,6 +157,7 @@ countries:
           zh-CN: "[寻找您的众议员](https://www.house.gov/representatives/find-your-representative)"
           zh-TW: "[尋找您的眾議員](https://www.house.gov/representatives/find-your-representative)"
           vi: "[Tìm người đại diện của bạn](https://www.house.gov/representatives/find-your-representative)"
+          en: "Etsi edustajainhuoneen edustajasi(https://www.house.gov/representatives/find-your-representative)"
     children:
       - id: us-al
         name:
@@ -1731,6 +1738,7 @@ countries:
       zh-CN: "欧盟"
       zh-TW: "歐盟"
       ja: "欧州連合"
+      fi: "Euroopan unioni"
     items:
       - text:
           ar: "تواصل مع فريق DMA: [https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen)"
@@ -1753,6 +1761,7 @@ countries:
           pt-BR: "Entre em contato com o DMA team: [https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen_pt](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen_pt)"
           zh-CN: "联系 DMA 团队：[https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen)"
           zh-TW: "聯絡 DMA 團隊：[https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen)"
+          fi: "Ole yhteydessä digimarkkinasäädös työryhmään: [https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen_en?prefLang=fi](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen_en?prefLang=fi)"
       - text:
           en: "Contact your Member of the European Parliament directly: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           nl: "Neem rechtstreeks contact op met jouw lid van het Europees Parlement: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
@@ -1763,6 +1772,7 @@ countries:
           pt-BR: "Entre em contato direto com um membro do Parlamento Europeu: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           zh-CN: "直接联系您的欧洲议会议员：[https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           zh-TW: "直接聯絡您的歐洲議會議員：[https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
+          fi: "Ota yhteyttä suoraan Euroopan parlamentin jäseneesi: [https://zeyus.com/contact-mep-representative/#Finland](https://zeyus.com/contact-mep-representative/#Finland)"
       - text:
           ar: "البريد الإلكتروني لمكافحة الاحتكار: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           en: "Email Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
@@ -1784,6 +1794,7 @@ countries:
           pt-BR: "Envie um email para a Direção Antitruste: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           zh-CN: "给反垄断部门发送电子邮件：[COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           zh-TW: "傳送電子郵件給反壟斷部門：[COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
+          fi: "Lähetä sähköpostia EU antitrustille: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
       - text:
           ar: "قدم شكوى إلى [سياسة المنافسة في الاتحاد الأوروبي] (https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) "
           en: "Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
@@ -1805,6 +1816,7 @@ countries:
           pt-BR: "Envie uma reclamação para a [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_pt)"
           zh-CN: "向 [欧盟竞争政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出投诉"
           zh-TW: "向 [歐盟競爭政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出申訴"
+          fi: "Lähetä valitus [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
     children:
       - id: denmark
         name:
@@ -1813,6 +1825,7 @@ countries:
           pl: "Dania"
           zh-CN: "丹麦"
           zh-TW: "丹麥"
+          fi: "Tanska
         items:
           - text:
               en: "Contact the Danish [Consumer Ombudsman](https://forbrugerombudsmanden.dk/consumer-ombudsman)"
@@ -1845,6 +1858,7 @@ countries:
           pl: "Czechy"
           zh-CN: "捷克共和国"
           zh-TW: "捷克共和國"
+          fi: "Tšekin tasavalta"
         items:
           - text:
               ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
@@ -1895,6 +1909,7 @@ countries:
           pl: "Polska"
           zh-TW: "波蘭"
           zh-CN: "波兰"
+          fi: "Puola"
         items:
           - text:
               ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
@@ -1928,6 +1943,7 @@ countries:
           pl: "Litwa"
           zh-CN: "立陶宛"
           zh-TW: "立陶宛"
+          fi: "Liettua"
         items:
           - text:
               en: "Email: [tarnyba@vvtat.lt](mailto:tarnyba@vvtat.lt?cc=lithuania@keepandroidopen.org) [taryba@kt.gov.lt](mailto:taryba@kt.gov.lt?cc=lithuania@keepandroidopen.org)"
@@ -1951,6 +1967,7 @@ countries:
           el: "Σλοβακία"
           zh-TW: "斯洛伐克"
           zh-CN: "斯洛伐克"
+          fi: "Slovakia"
         locales:
           - sk
         items:
@@ -1980,6 +1997,7 @@ countries:
           pl: "Węgry"
           zh-CN: "匈牙利"
           zh-TW: "匈牙利"
+          fi: "Unkari"
         items:
           - text:
               en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
@@ -3199,6 +3217,7 @@ countries:
       zh-TW: "波蘭"
       ja: "ポーランド"
       zh-CN: "波兰"
+      fi: "Puola"
     items:
       - text:
           ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
