@@ -77,7 +77,7 @@ follow_up:
   zh-TW: "當申訴是由該國家或地區的公民撰寫，並且電子郵件語言是該地區管理機構的官方語言之一時，申訴的影響力尤為顯著。請要求對申訴給予 _書面確認_ ，並考慮將您收到的任何回覆轉發至 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ，以便我們突出顯示並作為參考。"
   ja: "苦情は、その国や地域の市民によって提出され、かつメールの言語が当該地域の統治機関の公用語のうちの一つで書かれている場合に特に効果的です。苦情の受理確認書を文書で請求し、受け取った回答は [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) に転送することをご検討ください。そうすることで、私達がそれらを強調し参照することが可能となります。"
   vi: "Tác động của khiếu nại đặc biệt quan trọng khi nó được viết bởi công dân của quốc gia hoặc khu vực đó và ngôn ngữ email là một trong những ngôn ngữ chính thức của cơ quan quản lý khu vực. Vui lòng yêu cầu văn bản xác nhận đơn khiếu nại và cân nhắc chuyển tiếp mọi phản hồi bạn nhận được tới [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) để chúng tôi có thể đánh dấu và tham khảo chúng."
-  fi:"Valituksilla on erityisen suuri vaikutus, kun sen on kirjoittanut kyseisen maan tai hallintoalueen kansalainen ja kun valitus on kirjoitettu jollakin kyseisen paikan virallisista kielistä. Pyydä _kirjallinen vastaanottokuittaus_ valituksesta ja välitä harkintasi mukaan saamasi vastaukset osoitteeseen [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) jotta voimme niitä korostaa ja viitata niihin."
+  fi: "Valituksilla on erityisen suuri vaikutus, kun sen on kirjoittanut kyseisen maan tai hallintoalueen kansalainen ja kun valitus on kirjoitettu jollakin kyseisen paikan virallisista kielistä. Pyydä _kirjallinen vastaanottokuittaus_ valituksesta ja välitä harkintasi mukaan saamasi vastaukset osoitteeseen [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) jotta voimme niitä korostaa ja viitata niihin."
 
 countries:
   - id: united-states
@@ -157,7 +157,7 @@ countries:
           zh-CN: "[寻找您的众议员](https://www.house.gov/representatives/find-your-representative)"
           zh-TW: "[尋找您的眾議員](https://www.house.gov/representatives/find-your-representative)"
           vi: "[Tìm người đại diện của bạn](https://www.house.gov/representatives/find-your-representative)"
-          en: "Etsi edustajainhuoneen edustajasi(https://www.house.gov/representatives/find-your-representative)"
+          fi: "Etsi edustajainhuoneen edustajasi(https://www.house.gov/representatives/find-your-representative)"
     children:
       - id: us-al
         name:
