@@ -23,7 +23,7 @@ heading:
   zh-TW: "消費者：聯絡政府監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
   vi: "Người dùng: Liên hệ với cơ quan quản lý của chính phủ"
-  fi: "Kuluttajat: Ota yhteyttä päättäjiin
+  fi: "Kuluttajat: Ota yhteyttä päättäjiin"
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
@@ -1825,7 +1825,7 @@ countries:
           pl: "Dania"
           zh-CN: "丹麦"
           zh-TW: "丹麥"
-          fi: "Tanska
+          fi: "Tanska"
         items:
           - text:
               en: "Contact the Danish [Consumer Ombudsman](https://forbrugerombudsmanden.dk/consumer-ombudsman)"
